@@ -1,0 +1,1 @@
+Here, there are some tricky things with matrix shapes, it is good to get a knack in operating on correct shapes and how multiplication works
